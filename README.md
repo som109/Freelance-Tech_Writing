@@ -1,6 +1,3 @@
-# Freelance-Tech_Writing
-This has all my open-source Technical Writing projects 
-
 Markdown language basics
 # Learning-Github
 ## sub heading
